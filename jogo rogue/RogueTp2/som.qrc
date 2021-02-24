@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1 (som)">
+        <file>Menu.mp3</file>
+        <file>PickUpTreasure.mp3</file>
+        <file>GameOver.wav</file>
+        <file>Dano.wav</file>
+        <file>button.mp3</file>
+        <file>Pass.wav</file>
+        <file>Walk.mp3</file>
+    </qresource>
+</RCC>
